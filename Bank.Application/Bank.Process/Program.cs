@@ -49,7 +49,6 @@ namespace Bank.Process
                     Account lCustAccount = new Account() { AccountNumber = 456, Balance = 20 };
                     lCustomer.Accounts.Add(lCustAccount);
 
-
                     lContainer.Customers.AddObject(lVideoStore);
                     lContainer.Customers.AddObject(lCustomer);
 

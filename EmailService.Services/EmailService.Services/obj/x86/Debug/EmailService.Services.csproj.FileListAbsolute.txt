@@ -7,3 +7,22 @@ C:\Users\Matt\Desktop\PracTaskB\EmailService.Services\EmailService.Services\bin\
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.pdb
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.dll
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.xml
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.pdb

@@ -8,15 +8,15 @@
 //------------------------------------------------------------------------------
 
 using System;
+using System.ComponentModel;
+using System.Data.EntityClient;
 using System.Data.Objects;
 using System.Data.Objects.DataClasses;
-using System.Data.EntityClient;
-using System.ComponentModel;
-using System.Xml.Serialization;
+using System.Linq;
 using System.Runtime.Serialization;
+using System.Xml.Serialization;
 
 [assembly: EdmSchemaAttribute()]
-
 namespace DeliveryCo.Business.Entities
 {
     #region Contexts
@@ -82,6 +82,7 @@ namespace DeliveryCo.Business.Entities
         private ObjectSet<DeliveryInfo> _DeliveryInfoes;
 
         #endregion
+
         #region AddTo Methods
     
         /// <summary>
@@ -93,11 +94,11 @@ namespace DeliveryCo.Business.Entities
         }
 
         #endregion
+
     }
-    
 
     #endregion
-    
+
     #region Entities
     
     /// <summary>
@@ -134,6 +135,7 @@ namespace DeliveryCo.Business.Entities
         }
 
         #endregion
+
         #region Primitive Properties
     
         /// <summary>
@@ -308,9 +310,11 @@ namespace DeliveryCo.Business.Entities
         partial void OnStatusChanged();
 
         #endregion
+
     
     }
 
     #endregion
+
     
 }

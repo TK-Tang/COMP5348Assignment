@@ -10,3 +10,31 @@ C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bi
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.Net4.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.xml
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb

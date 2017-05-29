@@ -4,3 +4,9 @@ C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities
 C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
 C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb

@@ -18,3 +18,8 @@ C:\Users\Matt\Desktop\PracTaskB\Common\bin\Debug\Common.pdb
 C:\Users\Matt\Desktop\PracTaskB\Common\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Matt\Desktop\PracTaskB\Common\obj\Debug\Common.dll
 C:\Users\Matt\Desktop\PracTaskB\Common\obj\Debug\Common.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Common\bin\Debug\Common.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Common\bin\Debug\Common.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Common\obj\Debug\Common.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Common\obj\Debug\Common.pdb

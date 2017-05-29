@@ -10,3 +10,23 @@ C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debu
 C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
 C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
 C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.xml
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb

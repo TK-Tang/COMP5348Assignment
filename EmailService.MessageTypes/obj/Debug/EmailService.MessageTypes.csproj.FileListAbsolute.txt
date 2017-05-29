@@ -1,0 +1,5 @@
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb

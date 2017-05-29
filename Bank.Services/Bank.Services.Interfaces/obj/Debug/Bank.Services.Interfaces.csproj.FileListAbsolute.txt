@@ -5,3 +5,11 @@ C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug
 C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
 C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
 C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

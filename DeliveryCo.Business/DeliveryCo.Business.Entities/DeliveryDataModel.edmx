@@ -77,7 +77,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram Name="DeliveryDataModel" >
-        <EntityTypeShape EntityType="DeliveryDataModel.DeliveryInfo" Width="1.5" PointX="4.25" PointY="2.125" Height="2.3648893229166656" />
+        <EntityTypeShape EntityType="DeliveryDataModel.DeliveryInfo" Width="1.5" PointX="4.625" PointY="1.125" Height="2.3648893229166656" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

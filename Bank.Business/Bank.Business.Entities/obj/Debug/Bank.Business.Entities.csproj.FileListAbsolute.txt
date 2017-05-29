@@ -4,3 +4,9 @@ C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\B
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

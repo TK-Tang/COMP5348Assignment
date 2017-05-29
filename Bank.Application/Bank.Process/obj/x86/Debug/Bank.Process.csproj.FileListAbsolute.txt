@@ -20,3 +20,26 @@ C:\Users\Matt\Desktop\PracTaskB\Bank.Application\Bank.Process\bin\Debug\Microsof
 C:\Users\Matt\Desktop\PracTaskB\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
 C:\Users\Matt\Desktop\PracTaskB\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.dll
 C:\Users\Matt\Desktop\PracTaskB\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Process.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Services.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb

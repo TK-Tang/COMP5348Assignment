@@ -17,6 +17,12 @@ namespace VideoStore.Services
             get { return ServiceLocator.Current.GetInstance<IDeliveryNotificationProvider>(); }
         }
 
+        public void NotifyDeliveryFailed(Guid pDeliveryId, DeliveryInfoStatus status)
+        {
+            // This here was changed by TK and he is not sure if more code needs to be added here
+            Provider.NotifyDeliveryCompletion(pDeliveryId, GetDeliveryStatusFromDeliveryInfoStatus(status));
+        }
+
         public void NotifyDeliveryCompletion(Guid pDeliveryId, DeliveryInfoStatus status)
         {
             Provider.NotifyDeliveryCompletion(pDeliveryId, GetDeliveryStatusFromDeliveryInfoStatus(status));
@@ -38,7 +44,7 @@ namespace VideoStore.Services
             }
             else
             {
-                throw new Exception("Unexpected delivery status received");
+                throw new Exception("Unexpected delivery status received.");
             }
         }
 

@@ -30,3 +30,11 @@ C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb

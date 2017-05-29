@@ -1,0 +1,9 @@
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.pdb

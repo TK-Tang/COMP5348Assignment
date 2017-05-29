@@ -47,3 +47,27 @@ C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components\obj\Debug\Resolve
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.dll
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.pdb
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\Common.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\Common.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.pdb

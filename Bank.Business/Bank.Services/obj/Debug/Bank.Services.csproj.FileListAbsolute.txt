@@ -10,3 +10,13 @@ C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Services\bin\Debug\Bank.Busin
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

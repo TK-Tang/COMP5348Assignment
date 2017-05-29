@@ -34,3 +34,13 @@ C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components.Interfaces\bin\De
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb

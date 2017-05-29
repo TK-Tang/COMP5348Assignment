@@ -9,3 +9,15 @@ C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
 C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
