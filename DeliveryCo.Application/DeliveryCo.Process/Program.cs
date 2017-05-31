@@ -9,6 +9,7 @@ using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
+using System.Messaging;
 
 namespace DeliveryCo.Process
 {
@@ -17,13 +18,18 @@ namespace DeliveryCo.Process
         static void Main(string[] args)
         {
             ResolveDependencies();
+
+            String ms = ConfigurationManager.AppSettings["queueName"];
+
+            if (!MessageQueue.Exists(ms))
+                MessageQueue.Create(ms);
+
             using (ServiceHost lHost = new ServiceHost(typeof(DeliveryService)))
             {
                 lHost.Open();
                 Console.WriteLine("Delivery Service started. Press Q to quit");
-                while (Console.ReadKey().Key != ConsoleKey.Q) ;
+                while (Console.ReadKey().Key != ConsoleKey.Q);
             }
-
         }
 
         private static void ResolveDependencies()

@@ -1,5 +1,5 @@
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
-C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojResolveAssemblyReference.cache
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojResolveAssemblyReference.cache

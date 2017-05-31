@@ -20,11 +20,12 @@ namespace DeliveryCo.Services
             }
         }
 
-        [OperationBehavior(TransactionScopeRequired = true)]
+        [OperationBehavior(TransactionScopeRequired = true, TransactionAutoComplete = true)]
         public Guid SubmitDelivery(DeliveryInfo pDeliveryInfo)
         {
             return DeliveryProvider.SubmitDelivery(
-                MessageTypeConverter.Instance.Convert<DeliveryCo.MessageTypes.DeliveryInfo, 
+                MessageTypeConverter.Instance.Convert
+                <DeliveryCo.MessageTypes.DeliveryInfo, 
                 DeliveryCo.Business.Entities.DeliveryInfo>(pDeliveryInfo)                
             );
         }

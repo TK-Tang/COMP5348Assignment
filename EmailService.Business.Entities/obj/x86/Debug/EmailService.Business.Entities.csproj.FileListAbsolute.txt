@@ -5,6 +5,6 @@ C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\Ema
 C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
-C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csprojResolveAssemblyReference.cache
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csprojResolveAssemblyReference.cache

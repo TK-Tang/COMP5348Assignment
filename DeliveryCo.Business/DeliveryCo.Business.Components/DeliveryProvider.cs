@@ -13,6 +13,8 @@ namespace DeliveryCo.Business.Components
 {
     public class DeliveryProvider : IDeliveryProvider
     {
+
+        // Saves a delivery into a database before calling methods that attempt to send it to MSMQ
         public Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo)
         {
             using(TransactionScope lScope = new TransactionScope())
@@ -28,6 +30,7 @@ namespace DeliveryCo.Business.Components
             return pDeliveryInfo.DeliveryIdentifier;
         }
 
+        // This dooesn't seem to say when it failed a delivery - tk
         private void ScheduleDelivery(DeliveryInfo pDeliveryInfo)
         {
             Console.WriteLine("Delivering to" + pDeliveryInfo.DestinationAddress);

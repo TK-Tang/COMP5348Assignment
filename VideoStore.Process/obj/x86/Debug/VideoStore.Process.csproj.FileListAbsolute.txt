@@ -99,7 +99,6 @@ C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Business
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
 C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\obj\x86\Debug\VideoStore.Process.csprojResolveAssemblyReference.cache
-C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\bin\Debug\AutoMapper.Net4.dll
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\bin\Debug\VideoStore.Process.exe
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
@@ -170,3 +169,4 @@ C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
 C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Users\TKTang\Documents\Projects\COMP5348\Group Assignment\VideoStore.Process\bin\Debug\AutoMapper.Net4.dll

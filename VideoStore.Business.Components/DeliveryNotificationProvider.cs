@@ -33,7 +33,7 @@ namespace VideoStore.Business.Components
                 EmailProvider.SendMessage(new EmailMessage()
                 {
                     ToAddress = lAffectedOrder.Customer.Email,
-                    Message = "Our records show that there was a problem" + lAffectedOrder.OrderNumber + " delivering your order. Please contact Video Store"
+                    Message = "Our records show that there was a problem" + lAffectedOrder.OrderNumber + " delivering your order. Please contact video store"
                 });
             }
         }

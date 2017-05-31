@@ -8,6 +8,7 @@ using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
+using System.Messaging;
 
 namespace EmailService.Process
 {
@@ -16,6 +17,15 @@ namespace EmailService.Process
         static void Main(string[] args)
         {
             ResolveDependencies();
+
+            // ".\private$/EmailService" <- THIS MIGHT BE WRONG
+            String ms = ConfigurationManager.AppSettings["queueName"];
+
+            if (!MessageQueue.Exists(ms))
+                MessageQueue.Create(ms);
+
+            // MessageQueue.Create(ms, true);
+
             using (ServiceHost lHost = new ServiceHost(typeof(EmailService.Services.EmailService)))
             {
                 lHost.Open();

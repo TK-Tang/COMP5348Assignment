@@ -27,7 +27,7 @@ namespace VideoStore.Business.Components
         {
             get
             {
-                return GetTcpService<IEmailService>("net.tcp://localhost:9040/EmailService");
+                return GetMsmqService<IEmailService>("net.msmq://localhost/private/EmailService");
             }
         }
 
@@ -35,7 +35,7 @@ namespace VideoStore.Business.Components
         {
             get
             {
-                return GetTcpService<ITransferService>("net.tcp://localhost:9020/TransferService");
+                return GetMsmqService<ITransferService>("net.msmq://localhost/private/TransferService");
             }
         }
 
@@ -43,17 +43,16 @@ namespace VideoStore.Business.Components
         {
             get
             {
-                return GetTcpService<IDeliveryService>("net.tcp://localhost:9030/DeliveryService");
+                return GetMsmqService<IDeliveryService>("net.msmq://localhost/private/DeliveryService");
             }
         }
 
-
-
-        private T GetTcpService<T>(String pAddress)
+        private T GetMsmqService<T>(String pAddress)
         {
-            NetTcpBinding tcpBinding = new NetTcpBinding() { TransactionFlow = true };
+            NetMsmqBinding netMsmqBinding = new NetMsmqBinding(NetMsmqSecurityMode.None) { Durable = false , ExactlyOnce = false };
+            netMsmqBinding.Security.Mode = 0;
             EndpointAddress address = new EndpointAddress(pAddress);
-            return new ChannelFactory<T>(tcpBinding, pAddress).CreateChannel();
+            return new ChannelFactory<T>(netMsmqBinding, address).CreateChannel();
         }
     }
 }
